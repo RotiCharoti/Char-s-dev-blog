@@ -1,0 +1,39 @@
+.container1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  img {
+    margin-right: 10px;
+  }
+
+.nav{
+    font-size:35px;
+    font-family: "Lora";
+    word-spacing: 150px;
+    padding-left: 90px;
+    color:white;
+}
+
+.container2{
+    position: relative;
+    text-align: center;
+    opacity:0.6;
+    color:white;
+}
+
+.maintxt {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size:164px;
+    color:#EBB7B6;
+  }
+
+.subtxt {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size:35px;
+    color:white;
+  }
